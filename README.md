@@ -1,1 +1,1 @@
-# hospitalmangapp
+hospitalmanagmentapp
